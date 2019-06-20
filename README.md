@@ -12,3 +12,4 @@
 - https://www.kaggle.com/c/histopathologic-cancer-detection/discussion/83760#latest-554506
 - https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77269#latest-456837
 - https://machinelearningmastery.com/how-to-create-a-random-split-cross-validation-and-bagging-ensemble-for-deep-learning-in-keras/
+- https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/
