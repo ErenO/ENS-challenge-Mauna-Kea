@@ -1,0 +1,11 @@
+*.npy
+*.hdf5
+*.h5
+submission
+reste
+TestSetImagesDir
+TrainSetImagesDir
+*.csv
+Mauna_Kea_Supp_Material
+logs2
+submission_reste
