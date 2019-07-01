@@ -1,5 +1,10 @@
 # ENS-challenge-Mauna-Kea
+Ranked 12 in Ens Mauna Kea Challenge
+Didn't do pseudo labelling, TTA either, so there's two ways of improvement.
 
+![Predictions](img.png)
+
+Few links that inspired me:
 - https://www.dlology.com/blog/multi-class-classification-with-focal-loss-for-imbalanced-datasets/
 - https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77322#latest-460258
 - https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77731#latest-470101
