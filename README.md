@@ -1,6 +1,6 @@
 # ENS-challenge-Mauna-Kea
 Ranked 12 in Ens Mauna Kea Challenge
-Didn't do pseudo labelling, TTA either, so there's two ways of improvement.
+Didn't had time to do pseudo labelling, TTA either, so there's at least two ways of improvement, I have others but it's unsure.
 
 ![Predictions](img.png)
 
